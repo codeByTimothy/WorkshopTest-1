@@ -1,5 +1,0 @@
-Hello World
-
-This is a goblin
-
-I'm using it to test git
